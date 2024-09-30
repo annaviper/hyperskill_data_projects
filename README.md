@@ -1,2 +1,5 @@
 # hyperskill_data_projects
-https://hyperskill.org/
+Data Analysis projects from jetbrains.com/academy
+
+# 1. Hospitals
+https://hyperskill.org/projects/152?track=44
